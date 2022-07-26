@@ -1,8 +1,8 @@
-ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs](https://telegram.me/tgshadow_fighters)
+ʙᴇsᴛ ᴍᴜsɪᴄ sᴏᴜʀᴄᴇ ᴍᴀᴅᴇ ʙʏ  [ᴛᴇᴀᴍ ᴄᴏᴍʀᴀᴅᴇ](https://telegram.me/tamil_comrade)
 
-ʙᴏᴛ: [ᴀᴍᴀʟᴀ](https://telegram.me/Amalamusicbot)
+ʙᴏᴛ: [ᴀɴɢᴇʟ](https://telegram.me/angelmusicrobot)
 
-<p align="center"><a href="https://t.me/teamshadowprojects"><img src="https://telegra.ph/file/5c40c60faa98656741eb3.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/angelmusicrobot"><img src="https://telegra.ph/file/bb2448b6c4a377de2e32a.jpg" width="300"></a></p>
 
  
 
