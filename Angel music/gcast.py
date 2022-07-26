@@ -1,5 +1,5 @@
-## © copyright infringement on Telugu coders 
-## © @telugucoders
+ 
+## © @love-u-bobby
 
 import asyncio
 from pyrogram import Client, filters
