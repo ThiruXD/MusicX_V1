@@ -37,15 +37,15 @@
 
 
 
-# ꜱᴘᴇᴄɪᴀʟ ᴄʀᴇᴀᴅɪᴛꜱ
+# 𝗧𝗘𝗔𝗠 𝗖𝗢𝗠𝗥𝗔𝗗𝗘
 
-- [ʙᴏᴛ](https://t.me/angelmusicrobot)        **•ᴅᴇᴠ•**
-
-
-- [sᴜᴘᴘᴏʀᴛ](https://t.me/comrade_botz)      **•ᴅᴇᴠ•**
+- [ʙᴏᴛ](https://t.me/angelmusicrobot)        
 
 
-- [ᴜᴘᴅᴀᴛᴇ](https://t.me/comrade_robots)  **•ᴅᴇᴠ•**
+- [sᴜᴘᴘᴏʀᴛ](https://t.me/comrade_botz)      
+
+
+- [ᴜᴘᴅᴀᴛᴇ](https://t.me/comrade_robots)  
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ----> </p>
 
