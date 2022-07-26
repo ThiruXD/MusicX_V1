@@ -22,7 +22,7 @@
 
 
 <h4>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴛᴇʟᴜɢᴜ ᴄᴏᴅᴇʀs ᴏɴ ʜᴇʀᴏᴋᴜ!</h4>    
-<a href="https://telugucoders.github.io/telugucodersdeploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+<a href="https://love-u-bobbu/angel-x-musicdeploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ɴᴏᴛᴇ: ᴡʜᴇɴ ᴜ ᴅᴇᴘʟᴏʏ ɪɴ ʜᴇʀᴏᴋᴜ ᴜsᴇ ᴇᴜʀᴏᴘᴇ sᴇʀᴠᴇʀ ᴜ ᴡɪʟʟ ɢᴇᴛ ɴᴏ ʟᴀɢ ɪssᴜᴇ
 
