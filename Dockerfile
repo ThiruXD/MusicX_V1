@@ -7,5 +7,5 @@ RUN apt-get install -y nodejs
 RUN npm i -g npm
 COPY . /bobby/
 WORKDIR /bobby/
-RUN pip3 install -U -r Installer
+RUN pip3 install -U -r requirements.txt
 CMD python3 -m modules
